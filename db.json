@@ -1,0 +1,55 @@
+{
+    "categories": [
+      { "id": 1, "name": "Laptops" },
+      { "id": 2, "name": "Mobiles" },
+      { "id": 3, "name": "Speakers" }
+    ],
+    
+        "products": [
+          {
+            "id": 1,
+            "name": "Lenovo",
+            "imageUrl": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8NDM1OTc1fGltYWdlL3BuZ3xoMGMvaDYxLzEyNzk3MTg5NzgzNTgyLnBuZ3xkZDg5MWIyYWE1MWNmOGM5ZmUxMmE1NmZhYTdlMTU2NjA4Y2UzOTgxZjY1M2QyMjhjY2FjODI0ZTNiMzZlMzY4/lenovo-laptops-ideapad-1i-gen-7-15-intel-series.png",
+            "categoryId": 1,
+            "description": "Lenovo laptop from the IdeaPad 1i Gen 7 series with Intel processors."
+          },
+          {
+            "id": 2,
+            "name": "Mac",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLKQbtJEKSFcv4dwCD1G9QIHZYsFK2c-1gw&s",
+            "categoryId": 1,
+            "description": "Apple MacBook laptop known for its sleek design and powerful performance."
+          },
+          {
+            "id": 3,
+            "name": "Dell",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR4rCOGG0dwA3cljyUIRwx21FVbWd4ng6zsQ&s",
+            "categoryId": 1,
+            "description": "Dell laptop offering reliable performance and durability."
+          },
+          {
+            "id": 4,
+            "name": "iPhone",
+            "imageUrl": "https://external.webstorage.gr/mmimages/image/7/29/83/24/1718774-APPLE-IPHONE-14-128GB-BLUE-hero-560x560.jpg",
+            "categoryId": 2,
+            "description": "Apple iPhone 14 with 128GB storage in blue color."
+          },
+          {
+            "id": 5,
+            "name": "Samsung",
+            "imageUrl": "https://www.shutterstock.com/image-photo/granada-andalusia-spain-24th-january-260nw-2416877835.jpg",
+            "categoryId": 2,
+            "description": "Samsung smartphone known for its advanced features and high-quality display."
+          },
+          {
+            "id": 6,
+            "name": "Sony",
+            "imageUrl": "https://sony.scene7.com/is/image/sonyglobalsolutions/Primary_image_1200_03?$mediaCarouselSmall$&fmt=png-alpha",
+            "categoryId": 3,
+            "description": "Sony electronic product, renowned for its innovative technology and quality."
+          }
+        ]
+      
+      
+  }
+  

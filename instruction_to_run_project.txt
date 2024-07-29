@@ -1,0 +1,15 @@
+1) use node version 18.20.4 (using nvm use 18)
+
+2) after installing JSON server using npm install -g json-server
+
+3) start json server using ( json-server --watch db.json )
+This will start server and make data available at http://localhost:3000/categories
+http://localhost:3000/products
+
+http://localhost:3000/products?categoryId=1
+http://localhost:3000/products?id=1
+
+4) after that npm start
+
+5) http://localhost:3001 --> Home Page (Product Listing Page)
+http://localhost:3001/product/1 --> Product Details Page
